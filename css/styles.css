@@ -1,3 +1,25 @@
+.top_container{
+    background-color: #F7B679;
+    padding-left: 39.5%;
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+body{
+    margin: 0px;
+}
 h1{
-    color: red;
+    margin-top: 0px;
+}
+.middle_container{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+.bottom_container{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+}
+.as{
+    text-decoration: underline;
 }
