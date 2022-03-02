@@ -3,6 +3,7 @@
     padding-top: 120px;
     padding-bottom: 20px;
     position: relative;
+    margin-bottom: 20px;
 }
 body{
     margin: 0px;
@@ -13,14 +14,12 @@ h1{
     margin-top: 0px;
 }
 .middle_container{
-    width: 200px;
-    height: 200px;
-    background-color: red;
+    
 }
 .bottom_container{
-    width: 200px;
-    height: 200px;
-    background-color: blue;
+    background-color:#F7B679 ;
+    padding: 2rem;
+    margin-top: 1rem;
 }
 .as{
     text-decoration: underline;
@@ -33,8 +32,9 @@ p{
 }
 h1{
     font-family: 'Sacramento', cursive;
-    font-size: 70px;
+    font-size: 5rem;
     margin-bottom: 5px;
+    color: #ff6600;
 }
 .cloud1{
     position: absolute;
@@ -63,4 +63,25 @@ h1{
     left: 50px;
     width: 100px;
     height: 75px;
+}
+h3,h2{
+     font-family: 'Smooch Sans', sans-serif;
+     font-size: 40px;
+     color: #ff6600;
+
+}
+.little{
+    color: #e72f0f;
+    font-family: 'Fredoka', serif;
+    margin-top: 0px;
+    margin-bottom: 15px;
+    font-size: 1.5rem;
+
+}
+.footer-link{
+    color: #016e72;
+    font-family: 'Fredoka', serif;
+    font-size: 2rem;
+    padding: 3rem;
+
 }
