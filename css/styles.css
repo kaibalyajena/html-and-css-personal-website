@@ -50,3 +50,17 @@ h1{
     left: 100px;
     top: 200px;
 }
+.algo1{
+    position: absolute;
+    width: 100px;
+    height: 75px;
+    top: 300px;
+    right: 50px;
+}
+.algo2{
+    position: absolute;
+    top: 600px;
+    left: 50px;
+    width: 100px;
+    height: 75px;
+}
